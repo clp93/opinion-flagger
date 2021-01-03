@@ -8,6 +8,7 @@ Purpose: To help users easily disambiguate opinion pieces/op-eds from news artic
 * Identify more regexes for opinion articles on websites. 
 * Enable a color picker.
 * Explore changing text color instead of background color
+* Create global and per-user allowlists to ensure sites (such as https://github.com/clp93/opinion-flagger) don't get flagged 😅
 
 ## Unprioritized Action Items 
 
